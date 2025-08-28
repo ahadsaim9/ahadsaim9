@@ -1,5 +1,5 @@
 ![I'm a Web Developer.](https://i.ibb.co.com/7SC7vws/Screenshot-2024-09-19-120340.png)
-### Hi there 👋, my name is Ahad Ali.
+### Hi there, I'm Ahad Ali! 👋
 #### I'm a Web Developer.
 
 
