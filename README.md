@@ -3,12 +3,12 @@
 # I'm a Web Developer.
 
 
-As a Web Developer with over two years of experience, I have a proven track record of building robust web applications from the ground up. My expertise spans from front-end technologies like React.js  to back-end frameworks such as Node.js . I am a problem-solver at heart, always eager to tackle complex challenges and deliver efficient, scalable solutions.
+As a Web Developer with over two years of experience, I have a proven track record of building robust web applications from the ground up. My expertise spans from front-end technologies like React.js/Next.js  to back-end Node.js/Nest.js . I am a problem-solver at heart, always eager to tackle complex challenges and deliver efficient, scalable solutions. Currently I'm completed my graduation.
 
-Skills:  HTML / CSS/ TAILWIND CSS / BOOTSTRAP / JS / REACT.JS / NODE.JS /  MONGODB
+Skills: BOOTSTRAP / TAILWIND CSS / JavaScript /TypeScript / REACT.JS / Next.js / NODE.JS / Express.js / MONGODB / Docker 
 
-- 🔭 I’m currently working on https://asm-store.netlify.app/ 
-- 🌱 I’m currently learning Node.js | MongoDB | Node.js | Next.js 
+- 🔭 I’m currently working on https://zenticsys.vercel.app/ 
+- 🌱 I’m currently learning MongoDB | Node.js | Nest.js 
 - 💬 Ask me about Web Development. 
 
 
